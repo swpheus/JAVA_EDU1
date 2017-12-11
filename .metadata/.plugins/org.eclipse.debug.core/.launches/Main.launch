@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/AdventureTextGameJava-master/AdventureTextGameJava-master/src/org/l2csl/java/adventuretextgame/Main.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.l2csl.java.adventuretextgame.Main"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="AdventureTextGameJava-master"/>
+</launchConfiguration>
